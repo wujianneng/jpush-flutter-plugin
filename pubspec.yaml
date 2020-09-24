@@ -1,8 +1,8 @@
-name: jpush_flutter
-description: JIGUANG officially supported JPush Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）(https://www.jiguang.cn).
-version: 0.5.9
+name: infitack_jpush_flutter
+description: 支持google play的極光sdk
+version: 1.0.1
 # author: xudong.rao <xudong.rao@outlook.com>
-homepage: https://www.jiguang.cn
+homepage: https://github.com/wujianneng/jpush-flutter-plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
